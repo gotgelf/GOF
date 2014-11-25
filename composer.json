@@ -1,0 +1,16 @@
+{
+    "name": "gof/examples",
+    "description": "Gof examples, implemented in PHP",
+    "authors": [
+        {
+            "name": "gotgelf",
+            "email": "gotgelf@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4" : {
+            "": "src/"
+        }
+    }
+}
