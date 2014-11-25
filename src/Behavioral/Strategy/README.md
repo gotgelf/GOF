@@ -1,2 +1,2 @@
 # Object Behavioral: Strategy
-![Alt tag](src/Behavioral/Strategy/strategy.png)
+![Alt tag](raw/master/src/Behavioral/Strategy/strategy.png)
