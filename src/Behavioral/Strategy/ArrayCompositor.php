@@ -1,0 +1,24 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: vuki
+ * Date: 11/25/14
+ * Time: 6:24 PM
+ */
+
+namespace Behavioral\Strategy;
+
+class ArrayCompositor implements Compositor
+{
+    public function __construct($interval)
+    {
+        // ...
+    }
+
+    public function compose(array $natural, array $stretch, array $shrink,
+                            $componentCount, $lineWidth, array $breaks)
+    {
+        // ...
+    }
+    // ...
+} 

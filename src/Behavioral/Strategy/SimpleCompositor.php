@@ -1,0 +1,19 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: vuki
+ * Date: 11/25/14
+ * Time: 6:23 PM
+ */
+
+namespace Behavioral\Strategy;
+
+class SimpleCompositor implements Compositor
+{
+    public function compose(array $natural, array $stretch, array $shrink,
+                             $componentCount, $lineWidth, array $breaks)
+    {
+        // ...
+    }
+    // ...
+} 
