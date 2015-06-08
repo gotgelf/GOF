@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: vuki
- * Date: 11/25/14
- * Time: 5:20 PM
- */
 
 namespace Behavioral\Strategy;
 
